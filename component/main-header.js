@@ -6,7 +6,7 @@ export default function MainHeader() {
   return (
     <header id="main-header">
       <div id="logo">
-        <Link href="/">NextNews</Link>
+        <Link href="/">News Website</Link>
       </div>
       <nav>
       <ul>
